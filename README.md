@@ -1,2 +1,2 @@
 # Database-Management-Systems-and-Applications
-SQL Queries that have been made.
+Some of the questions solved in CTIS 259 Course.
